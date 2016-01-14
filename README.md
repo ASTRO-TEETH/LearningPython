@@ -1,2 +1,2 @@
-# HTML_TEST
-HTML Test Page
+# Python Testing
+Python testing repository
